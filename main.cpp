@@ -1,7 +1,7 @@
 /*
 Martin Dorobczynski
 Final Project Chess
-12/11/2019
+
 CSIS 297
 */
 #include "Chessboard.h" //include header file
